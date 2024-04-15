@@ -1,5 +1,5 @@
 <p class="has-line-data" data-line-start="0" data-line-end="2">Disclaimer!!!<br>
-This only will work if your configure Task Scheduler manually, will we detailed below.</p>
+This only will work if you configure Task Scheduler manually, will be detailed below.</p>
 <p class="has-line-data" data-line-start="3" data-line-end="4">Contains:</p>
 <p class="has-line-data" data-line-start="5" data-line-end="8">EmptyStandbyList.exe: (<a href="https://web.archive.org/web/20220606204216/https://wj32.org/wp/software/empty-standby-list/">https://web.archive.org/web/20220606204216/https://wj32.org/wp/software/empty-standby-list/</a>)<br>
 Program made by wj32, site is down that’s why i’m using <a href="http://archive.org">archive.org</a>. You can download from there if you doesn’t want to take risks using mine.<br>
